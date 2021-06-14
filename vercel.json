@@ -4,7 +4,7 @@
         "api/**/*.js": {
             "runtime": "@uzimaru0000/vercel-og-image@1.5.0",
             "memory": 1024
-        }
+        },
         "api/**/*.html": {
             "runtime": "@uzimaru0000/vercel-og-image@1.5.0",
             "memory": 1024
