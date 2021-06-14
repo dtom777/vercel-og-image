@@ -36,7 +36,7 @@ export const build = async ({
     }
 
     const output = await createLambda({
-        runtime: 'nodejs10.x',
+        runtime: 'nodejs14.x',
         handler: 'index.handler',
         files: file,
         environment: {
