@@ -2,11 +2,11 @@
     "version": 2,
     "functions": {
         "api/**/*.html": {
-            "runtime": "vercel-dev-runtime@0.0.2",
+            "runtime": "vercel-dev-runtime@1.5.0",
             "memory": 1024
         },
         "api/**/*.js": {
-            "runtime": "vercel-dev-runtime@0.0.2",
+            "runtime": "vercel-dev-runtime@1.5.0",
             "memory": 1024
         }
     }
